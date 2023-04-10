@@ -1,0 +1,15 @@
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\lab 2 factory.csproj.AssemblyReference.cache
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\lab 2 factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\lab 2 factory.AssemblyInfoInputs.cache
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\lab 2 factory.AssemblyInfo.cs
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\lab 2 factory.csproj.CoreCompileInputs.cache
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\bin\Debug\net6.0\lab 2 factory.exe
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\bin\Debug\net6.0\lab 2 factory.deps.json
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\bin\Debug\net6.0\lab 2 factory.runtimeconfig.json
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\bin\Debug\net6.0\lab 2 factory.dll
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\bin\Debug\net6.0\lab 2 factory.pdb
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\lab 2 factory.dll
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\refint\lab 2 factory.dll
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\lab 2 factory.pdb
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\lab 2 factory.genruntimeconfig.cache
+C:\Users\everu\source\repos\lab 2 factory\lab 2 factory\obj\Debug\net6.0\ref\lab 2 factory.dll
